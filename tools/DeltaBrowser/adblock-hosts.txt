@@ -1,0 +1,96 @@
+# Lista domen reklam/trackerow blokowanych na poziomie zadan sieciowych (jak prosty hosts-blocker,
+# nie pelny silnik regul jak uBlock - bez blokowania kosmetycznego CSS). Jedna domena na linie,
+# blokuje ja i kazda subdomene. # = komentarz, puste linie ignorowane. Wlacz/wylacz w Settings ΔUI.
+
+# --- Google Ads / Analytics ---
+doubleclick.net
+googlesyndication.com
+googleadservices.com
+google-analytics.com
+googletagmanager.com
+googletagservices.com
+adservice.google.com
+pagead2.googlesyndication.com
+partner.googleadservices.com
+adsense.google.com
+
+# --- Facebook / Meta trackers ---
+connect.facebook.net
+an.facebook.com
+
+# --- Ad exchanges / networks ---
+adnxs.com
+adsrvr.org
+bidswitch.net
+casalemedia.com
+contextweb.com
+districtm.io
+smartadserver.com
+media.net
+openx.net
+pubmatic.com
+rubiconproject.com
+indexexchange.com
+triplelift.com
+sovrn.com
+gumgum.com
+adform.net
+adroll.com
+criteo.com
+outbrain.com
+taboola.com
+mgid.com
+revcontent.com
+yieldmo.com
+sharethrough.com
+yieldlab.net
+zedo.com
+tribalfusion.com
+undertone.com
+vibrantmedia.com
+chango.com
+eyeota.net
+lijit.com
+nuggad.net
+mookie1.com
+serving-sys.com
+flashtalking.com
+tapad.com
+mathtag.com
+bluekai.com
+krxd.net
+turn.com
+rlcdn.com
+agkn.com
+quantserve.com
+scorecardresearch.com
+crwdcntrl.net
+cxense.com
+moatads.com
+amazon-adsystem.com
+
+# --- Popup / in-page ad injectors (dense on video/pirate sites) ---
+popads.net
+propellerads.com
+exoclick.com
+adcolony.com
+chartboost.com
+juicyads.com
+trafficjunky.net
+plugrush.com
+adsterra.com
+hilltopads.net
+clickadu.com
+popcash.net
+adcash.com
+mgcash.com
+zeropark.com
+revenuehits.com
+bitmedia.io
+coinzilla.com
+a-ads.com
+adskeeper.com
+
+# --- Autoplay video ad SDKs ---
+imasdk.googleapis.com
+video-ads.googlesyndication.com
