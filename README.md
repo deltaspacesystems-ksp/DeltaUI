@@ -53,6 +53,10 @@ Output: `dist/DeltaBrowser/`. Copy that whole folder next to your KSP executable
 planner, roads panel, music player) as DeltaUI panels and references
 `dist/GameData/DeltaUI/Plugins/DeltaUI.dll` directly — build DeltaUI first.
 
+## License
+
+[MIT](LICENSE). The bundled JetBrains Mono font is under the SIL OFL 1.1 (ship `OFL.txt` with it).
+
 ---
 
 Built with [Claude Code](https://claude.com/claude-code).
