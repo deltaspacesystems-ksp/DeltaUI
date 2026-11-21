@@ -1,5 +1,5 @@
 # DeltaUI
-
+made it for fun
 A shared UI library mod for KSP 1.12.5: windows with tabs, snap layouts, a themed look across every
 window, and a built-in Chromium browser — all IMGUI, no uGUI/UI Toolkit assets to ship.
 
